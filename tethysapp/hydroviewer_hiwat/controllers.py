@@ -207,7 +207,7 @@ def get_historic(request):
 		context = {
 			'gizmo_object': chart_obj,
 		}
-
+			
 		return render(request, 'hydroviewer_hiwat/gizmo_ajax.html', context)
 
 	except Exception as e:

@@ -9,7 +9,7 @@ class HydroviewerHiwat(TethysAppBase):
 
     name = 'Hydroviewer Hiwat'
     index = 'hydroviewer_hiwat:home'
-    icon = 'hydroviewer_hiwat/images/Hiwat_logo.png'
+    icon = 'hydroviewer_hiwat/images/Bangladesh_Hiwat_Hidroviewer_Logo.png'
     package = 'hydroviewer_hiwat'
     root_url = 'hydroviewer-hiwat'
     color = '#c0392b'
